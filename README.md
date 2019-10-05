@@ -16,7 +16,7 @@ Also, you are free to edit all files **except**:
 - timeout.py 
 - competition.py
 
-## Due: Oct 13, 2019 at 11:59 pm
+## Due: ~~Oct 13, 2019~~ Oct 20, 2019 at 11:59 pm
 
 **NOTE:** If you've completed Part2, you should be familiar with the basics: Setup, Indexing and Searching the Data. We've included these sections in this README again for convenience. So, feel free to skip directly to the Competition Tasks section!
 
